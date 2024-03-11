@@ -1,4 +1,4 @@
-# tic-tac-toe-hiver
+# tic-tac-toe-ai
 Tic Tac Toe game using Javascript, HTML
 
 
